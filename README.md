@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Tech Projects:</h2>
 
-- [Active Directory Home Lab]([https://github.com/rgbTwist](https://github.com/rgbTwist/Active-Directory-Home-Lab))
+- [Active Directory Home Lab](https://github.com/rgbTwist/Active-Directory-Home-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
