@@ -7,6 +7,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-https://www.linkedin.com/in/tai-belhumeur/ |
-TikTok: @rgbTwist
+https://www.linkedin.com/in/tai-belhumeur/ 
 
